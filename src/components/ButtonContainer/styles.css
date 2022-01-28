@@ -1,0 +1,16 @@
+.conti button {
+    
+    border-radius: 0.8rem;
+    font: 50 2.0rem 'Poppins', sans-serif;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color:black;
+    transition: background-color 0.2s;
+    background-color: chartreuse;
+    
+   
+}
+
+
+

@@ -1,0 +1,12 @@
+.logo-container img{
+    height: 2rem;
+}
+
+
+
+.logo-container{
+    text-align: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

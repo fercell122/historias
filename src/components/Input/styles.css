@@ -1,0 +1,11 @@
+.container label {
+    color: white;
+    font-size: 20px;
+    font-family: "Poppins";
+}
+
+.container input {
+    color: white;
+    font-size: 30px;
+    font-family: "Poppins";
+}
