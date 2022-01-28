@@ -3,7 +3,7 @@ import AppBar from '@mui/material/AppBar';
 import Button from '@mui/material/Button';
 import CameraIcon from '@mui/icons-material/PhotoCamera';
 import CssBaseline from '@mui/material/CssBaseline';
-
+import "./styles.css";
 import Stack from '@mui/material/Stack';
 import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
@@ -76,11 +76,13 @@ export default function Album() {
       style={{
         'textAlign':'center'
       }}>
+        <div className="imagemAstro">
         <img 
         alt=''
         src={process.env.PUBLIC_URL + '/media/pp.jpg'}
         
         ></img>
+        </div>
         </div>
                 
       </main>

@@ -1,0 +1,25 @@
+
+@media only screen and (max-width: 768px) {
+    .imagemAstro img {
+
+        width:40%;
+        height:40%;
+    }
+        
+        
+    }
+
+    
+  
+  
+  @media only screen and (min-width: 1024px) {
+    .imagemAstro img {
+       
+        width:30%;
+        height:30%; 
+
+    }
+    
+  } 
+
+
